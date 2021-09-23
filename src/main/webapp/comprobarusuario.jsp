@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Tienda Genérica</title>
+<title>Tienda GenÃ©rica</title>
 </head>
 <body>
 	<%
@@ -24,11 +24,11 @@
 		}
 		if(i == 1){
 			out.println("Usuario autorizado");
-			response.sendRedirect("contenido.jsp");
+			response.sendRedirect("principal.jsp");
 		}
 		else{
-			out.println("Usuario o contraseña inconrrecto");
-			response.sendRedirect("tiendagenerica.jsp");
+			out.println("Usuario o contraseÃ±a inconrrecto");
+			response.sendRedirect("index.jsp");
 		}
 	%>
 </body>
