@@ -28,7 +28,7 @@
 		}
 		else{
 			out.println("Usuario o contraseña inconrrecto");
-			response.sendRedirect("index.jsp");
+			response.sendRedirect("index.html");
 		}
 	%>
 </body>
