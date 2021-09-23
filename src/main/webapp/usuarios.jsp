@@ -6,7 +6,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Usuarios</title>
-<link rel="stylesheet" type="text/css" href="tiendagenerica.css">
+<link rel="stylesheet" type="text/css" href="">
 </head>
 <body>
 	<jsp:include page="menu.jsp"></jsp:include>
@@ -23,7 +23,7 @@
 				<th>Cedula</th>
 				<th>Correo</th>
 				<th>Nombre</th>
-				<th>Contraseña</th>
+				<th>ContraseÃ±a</th>
 				<th>Usuario</th>
 				<th colspan = "2">Acciones</th>
 			</tr>
